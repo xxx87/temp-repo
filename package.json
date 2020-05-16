@@ -1,0 +1,23 @@
+{
+  "name": "temp-repo",
+  "version": "1.0.0",
+  "description": "*bold \\*text*\r _italic \\*text_\r __underline__\r ~strikethrough~\r *bold _italic bold ~italic bold strikethrough~ __underline italic bold___ bold*\r [inline URL](http://www.example.com/)\r [inline mention of a user](tg://user?id=123456789)\r `inline fixed-width code`\r ```\r pre-formatted fixed-width code block\r ```\r ```python\r pre-formatted fixed-width code block written in the Python programming language\r ``",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxx87/temp-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxx87/temp-repo/issues"
+  },
+  "homepage": "https://github.com/xxx87/temp-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
