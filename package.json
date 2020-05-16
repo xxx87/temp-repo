@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xxx87/temp-repo/issues"
   },
-  "homepage": "https://github.com/xxx87/temp-repo#readme"
+  "homepage": "https://github.com/xxx87/temp-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
